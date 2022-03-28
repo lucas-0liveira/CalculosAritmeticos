@@ -1,0 +1,11 @@
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\ExercícioDAL15-03-2022\ExercícioDAL15-03-2022\bin\Debug\ExercícioDAL15-03-2022.exe.config
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\ExercícioDAL15-03-2022\ExercícioDAL15-03-2022\bin\Debug\ExercícioDAL15-03-2022.exe
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\ExercícioDAL15-03-2022\ExercícioDAL15-03-2022\bin\Debug\ExercícioDAL15-03-2022.pdb
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\ExercícioDAL15-03-2022\ExercícioDAL15-03-2022\obj\Debug\ExercícioDAL15-03-2022.csproj.AssemblyReference.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\ExercícioDAL15-03-2022\ExercícioDAL15-03-2022\obj\Debug\ExercícioDAL15-03-2022.csproj.SuggestedBindingRedirects.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\ExercícioDAL15-03-2022\ExercícioDAL15-03-2022\obj\Debug\ExercícioDAL15_03_2022.Form1.resources
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\ExercícioDAL15-03-2022\ExercícioDAL15-03-2022\obj\Debug\ExercícioDAL15_03_2022.Properties.Resources.resources
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\ExercícioDAL15-03-2022\ExercícioDAL15-03-2022\obj\Debug\ExercícioDAL15-03-2022.csproj.GenerateResource.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\ExercícioDAL15-03-2022\ExercícioDAL15-03-2022\obj\Debug\ExercícioDAL15-03-2022.csproj.CoreCompileInputs.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\ExercícioDAL15-03-2022\ExercícioDAL15-03-2022\obj\Debug\ExercícioDAL15-03-2022.exe
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\ExercícioDAL15-03-2022\ExercícioDAL15-03-2022\obj\Debug\ExercícioDAL15-03-2022.pdb
